@@ -1,0 +1,1 @@
+package com.jvm.projeto.base.framework.adapter.persistence.out.entity;
